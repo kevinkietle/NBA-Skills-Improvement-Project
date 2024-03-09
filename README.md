@@ -151,4 +151,4 @@ Hope you enjoyed reading through this project!
 
 **Email - <kevinkietle@gmail.com>**
 
-**My portfolio of data analysis projects  can be found at: <https://kevinkietle.github.io/Resume-HTML-example/>**
+**My portfolio of data analysis projects  can be found at: <https://kevinkietle.github.io/Bootstrap-Website-Portfolio/>**
