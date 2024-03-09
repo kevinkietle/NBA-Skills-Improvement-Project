@@ -18,7 +18,7 @@ This project is broken down into four parts, in which you can find the links to 
 
 -   [4\. Modeling](https://github.com/kevinkietle/NBA-Skills-Improvement-Project/blob/main/4.%20NBA%20Skills%20Improvement%20Project%20Part%204%20-%20Modeling.ipynb)
 
-Main takeaways:
+**Main takeaways:**
 
 -   Looking at just the topline, three point shooting is the skill that has the highest ratio of players improving.
 
@@ -63,7 +63,7 @@ Results
 
 Here are the results from the three models.
 
-Three Point Shooting:
+**Three Point Shooting:**
 
 -   56% of players from the training set improved from their first two seasons. (jumping quartiles)
 
@@ -83,13 +83,15 @@ Three Point Shooting:
 
 -   Cluster 4: tough guy archetype, players known for defense (Aaron Gordon, Grant Williams, De'Anthony Melton)
 
-Test set predictions:
+**Shooting Test set predictions:**
+
 ![shooting test predictions](https://github.com/kevinkietle/NBA-Skills-Improvement-Project/assets/82183590/a53a6e6d-4299-4efc-a4b6-3739baa41003)
 
-Shooting Model Feature Significance:
+**Shooting Model Feature Significance:**
+
 ![shooting features](https://github.com/kevinkietle/NBA-Skills-Improvement-Project/assets/82183590/0006e58b-7cab-475b-bdee-889928777ac4)
 
-Paint Finishing:
+**Paint Finishing:**
 
 -   49% of players from the training set improved from their first two seasons
 
@@ -105,15 +107,15 @@ Paint Finishing:
 
 -   Cluster 2: the rugged defender archetype (Aaron Gordon, Grant Williams, Kris Dunn)
 
-Test set predictions:
+**Finishing Test set predictions:**
 
 ![finishing test predictions](https://github.com/kevinkietle/NBA-Skills-Improvement-Project/assets/82183590/866a9e3d-3d0b-43e2-b9cb-3d314ca01618)
 
-Finishing Model Feature Significance:
+**Finishing Model Feature Significance:**
 
 ![finishing features](https://github.com/kevinkietle/NBA-Skills-Improvement-Project/assets/82183590/054f81d4-b880-49a6-8816-1234380b55fe)
 
-Defensive BPM:
+**Defensive BPM:**
 
 -   48% of players from the training set improved from their first two seasons
 
@@ -131,11 +133,11 @@ Defensive BPM:
 
 -   Cluster 3: also players who don't play much.
 
-Test set predictions:
+**Defensive Test set predictions:**
 
 ![defensive test predictions](https://github.com/kevinkietle/NBA-Skills-Improvement-Project/assets/82183590/008636e2-8001-472e-bd94-556665e9d4c3)
 
-Defensive Model Feature Significance:
+**Defensive Model Feature Significance:**
 
 ![defensive features](https://github.com/kevinkietle/NBA-Skills-Improvement-Project/assets/82183590/d886c97b-ce20-419f-867c-6f98626d8199)
 
@@ -143,10 +145,10 @@ There is more analysis on these results in the Main Takeaways section above.
 
 Hope you enjoyed reading through this project!
 
-Feel free to contact me with any questions or inquiries.
+**Feel free to contact me with any questions or inquiries.**
 
-LinkedIn - <https://www.linkedin.com/in/kevinkietle/>
+**LinkedIn - <https://www.linkedin.com/in/kevinkietle/>**
 
-Email - <kevinkietle@gmail.com>
+**Email - <kevinkietle@gmail.com>**
 
-My portfolio of data analysis projects  can be found at: <https://kevinkietle.github.io/Resume-HTML-example/>
+**My portfolio of data analysis projects  can be found at: <https://kevinkietle.github.io/Resume-HTML-example/>**
