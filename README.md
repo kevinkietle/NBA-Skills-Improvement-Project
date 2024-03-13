@@ -26,7 +26,9 @@ This project is broken down into four parts, in which you can find the links to 
 
 -   In the model for paint finishing, there are three features that are statistically significant. Games and minutes played (positive coefficients) both have very low p-values, indicating that this is a skill that improves from getting more playing time. Additionally, the paint scoring FG% of the first two years is statistically significant, which understandably indicates if a player shows potential that they will likely get better. This is unlike three point shooting, which can be more of an acquired skill.
 
--   Playing more and increasing paint efficiency is often what leads to creating an All-Star. The rugged defender type is also a common theme in the clusters across both three point shooting and paint scoring. It might be an archetype teams go after as having a better chance to improve.
+-   Playing more and increasing paint efficiency is often what leads to creating an All-Star. One of the clusters of improved paint finishing is strictly all-stars, meaning finding players able to improve that could be more impactful towards finding someone that can make a star leap.
+
+-   The rugged defender type is also a common theme in the clusters across both three point shooting and paint scoring. It might be an archetype teams go after as having a better chance to improve.
 
 -   There are four statistically significant features in the defensive model, with three of them being win shares stats (total win shares, defensive win shares, and offensive win shares). The fact it is all phases of the game suggests better or smarter players in general improve at defense. This is also shown by the statistically significant feature, block %. There has been a theory for evaluating pre-draft players that block percentage and steal percentage would be good indicators of success in the NBA because those stats are often obtained with basketball IQ, knowing the right positions and predicting what other players on the court will do.
 
